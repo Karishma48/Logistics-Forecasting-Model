@@ -11,3 +11,15 @@ Looking forward to applying these insights and driving more data-driven decision
 
 📽️ Check out the full video here: 
 https://lnkd.in/gnyUZJmB
+
+# Coding
+
+import numpy as np
+
+import pandas as pd
+
+import matplotlib.pyplot as plt
+
+from datetime import timedelta, datetime
+
+import random
